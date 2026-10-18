@@ -21,8 +21,8 @@ This project demonstrates the following OOP concepts:
 - Methods: Classes include methods for searching, filtering, and managing books.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - TypeScript
 - JavaScript
 
