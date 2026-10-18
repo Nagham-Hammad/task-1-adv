@@ -1,6 +1,5 @@
 # task-1-adv
 A simple Library Management System built with HTML, CSS, Typescript, Javascript 
-Library Management System
 
 ## Project Overview
 This project is a simple Library Management System built using HTML, CSS, TypeScript, and JavaScript. It allows user to view books, search for books, filter them by category, and change their availability status.
